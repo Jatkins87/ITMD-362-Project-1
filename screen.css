@@ -132,7 +132,7 @@ placeholder{
 
   font-family: 'Saira', sans-serif; /* 1 */
 
-  font-size: 120%; /* 1 */
+  font-size: 100%; /* 1 */
 
   line-height: 1.15; /* 1 */
 
@@ -224,7 +224,7 @@ legend {
   box-sizing: border-box; /* 1 */
   color: inherit; /* 2 */
   display: table; /* 1 */
-  max-width: 100%; /* 1 */
+  max-width: 200%; /* 1 */
   padding: 0; /* 3 */
   white-space: normal; /* 1 */
 }
@@ -297,7 +297,7 @@ input[type="date"] {
      background-color: aliceblue;
      overflow: hidden;
      padding: 0;
-     width: 200px;
+     width: 152px;
      -webkit-padding-start: 1px;
 }
 input[type="email"]{
@@ -343,13 +343,13 @@ div {
 }
 h5 {
 	font-family: 'Libre Barcode 39 Text', cursive;
-    font-size: 20px;
+    font-size: 60px;
     font-weight: bold;
     text-align: center;
 }
 h4 {
 	font-family: 'Saira', sans-serif;
-	font-size: 12px;
+	font-size: 16px;
 	text-align: center;
 }
 form {
